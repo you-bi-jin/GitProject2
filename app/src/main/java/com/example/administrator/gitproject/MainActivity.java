@@ -5,6 +5,8 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
     String one="첫번쨰 커밋";
+    String two="두번째 커밋";
+    String fore="네번째 커밋";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
