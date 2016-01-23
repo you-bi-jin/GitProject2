@@ -13,13 +13,5 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-    private void TestM(){
 
-          String test="추가 메소드1";
-
-    }
-    private void TextM2(){
-            String test2="추가 메소드2";
-
-    }
 }
