@@ -18,4 +18,8 @@ public class MainActivity extends AppCompatActivity {
           String test="추가 메소드1";
 
     }
+    private void TextM2(){
+            String test2="추가 메소드2";
+
+    }
 }
